@@ -1,0 +1,214 @@
+html,body{
+    height: 100%;
+    margin: 0;
+    font-size: 16px;
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    line-height: 1.8em;
+    /* color: rgb(56, 56, 125); */
+}
+.header{
+    /* margin-left: 69px; */
+    /* margin-top: 20px; */
+    background-color: rgb(56, 56, 125);
+    color: white;
+}
+.one{
+    padding-top: 20px;
+    margin-left: 69px;
+}
+.two{
+    padding-top: 20px;
+
+    margin-left: 803px;
+}
+.three{
+    padding-top: 20px;
+
+    margin-left: 20px;
+}
+.four{
+    padding-top: 20px;
+
+    margin-left: 20px;
+}
+.five{
+    padding-top: 20px;
+
+    margin-left: 20px;
+}
+.main{
+    background-image: url(/img/original.jpg);
+    min-height: 100%;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* margin-top: -20px; */
+    color: white;
+}
+.mainone{
+    padding-top: 200px;
+    margin-left: 200px;
+}
+.mone{
+    text-align: center;
+    margin-right: 184px;
+    font-size: 40px;
+}
+.mtwo{
+    text-align: center;
+    margin-right: 197px;
+}
+.mthree{
+    text-align: center;
+    padding-top: 25px;
+    margin-right: 125px;
+}
+.music{
+    background-color: rgb(56, 56, 125);
+    margin-top: -20px;
+    color: white;
+}
+.music1{
+    padding-left: 200px;
+}
+.m1 h2{
+    padding-left: 407px;
+}
+.m1 h4{
+    padding-left: 344px;
+}
+.m1 p{
+    padding-left: 0px;
+}
+.button {
+    padding-left: 356px;
+    border: transparent solid 2px;
+    border-radius: 8px;
+    padding-top: 20px;
+
+    
+}
+.btn{
+    background-color: red;
+    color: white;
+    border: soild 2px red;
+    padding: 20px;
+    border: transparent solid 2px;
+    border-radius: 8px;
+}
+button:hover{
+    background-color:white;
+    color: black;
+    border: transparent solid 2px;
+    border-radius: 8px;
+    transition: 0.3s ease-out;
+    cursor: pointer;
+}
+.n1{
+    padding-left: 187px;
+    padding-top: 20px;
+}
+.img_music img{
+    width: 587px;
+    height: 397px;
+    padding-left: 346px;
+    padding-top: 20px;
+    padding-bottom: -20px;
+}
+.TV{
+    text-align: center;
+}
+.tv1 h4{
+    font-size: 20px;
+}
+.tv1 p{
+
+    padding-top: 20px;
+    font-size: 12px;
+}
+.btn1{
+    background-color: rgb(56, 56, 125);
+    color: white;
+    border: soild 2px rgb(56, 56, 125);
+    padding: 12px;
+    border: transparent solid 2px;
+    border-radius: 8px;
+    
+}
+.img_m{
+    padding-top: 40px;
+    border-radius: 8px;
+}
+.down{
+    background-image: url(/img/Classical_spectacular10.jpg);
+    min-height: 100%;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* margin-top: -20px; */
+    color: white;
+    text-align: center;
+    padding-top: 345px;
+}
+.gift1{
+    display: flex;
+    justify-content: center;
+
+}
+.img_gif img{
+    width: 468px;
+    height: 310px;
+    padding-top: 125px;
+    padding-left: 145px;
+}
+.text_gif{
+    /* text-align: left; */
+    padding-left: 20px;
+    padding-top: 125px;
+
+
+}
+.text_gif h4{
+    text-align: center;
+}
+.text_gif p{
+    text-align: center;
+    padding-bottom: 35px;
+}
+
+.btn3{
+    background-color: rgb(56, 56, 125);
+    color: white;
+    border: soild 2px rgb(56, 56, 125);
+    padding: 12px;
+    border: transparent solid 2px;
+    border-radius: 8px;
+}
+.f{
+    padding-top: 20px;
+}
+.f1{
+    background-color: rgb(56, 56, 125);
+
+    display: flex;
+    justify-content: space-between;
+    padding-top: -2px;
+    color: white;
+}
+.g{
+    padding-left: 35px;
+}
+.g3{
+    padding-right: 42px;
+}
+.o{
+    background-color: rgb(56, 56, 125);
+
+    text-align: center;
+    margin: -16px;
+    padding: 0;
+    color: white;
+}
